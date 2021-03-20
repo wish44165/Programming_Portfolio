@@ -1,5 +1,5 @@
 Required command:
-    pip install numpy
-    pip install matplotlib
-    pip install bezier
-    pip install scipy
+1. pip install numpy
+2. pip install matplotlib
+3. pip install bezier
+4. pip install scipy
