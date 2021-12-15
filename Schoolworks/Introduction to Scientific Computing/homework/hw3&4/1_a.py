@@ -3,6 +3,10 @@
 Created on Wed Dec  8 18:35:33 2021
 
 @author: yuhsi
+
+department: IMM
+student number: 309653012
+name: yuhsi, Chen
 """
 
 import numpy as np
