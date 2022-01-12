@@ -1,4 +1,4 @@
-<detail>
+<details>
 <summary>National Yang Ming Chiao Tung University</summary>
 
 309653021
@@ -8,10 +8,10 @@ IAM5806 Topical Mathematical Modeling and Computing (II)
 IAM5554 Computational Conformal Geometry and Applications
 ECM9032 Machine Learning
 
-</detail>
+</details>
 
 
-<detail>
+<details>
 <summary>National Cheng Kung University</summary>
 
 C14061094
@@ -24,7 +24,7 @@ CSIE3009 Microprocessor Principles and Applications
 CN1001 Java Programming(1)
 SAPS7015 Data Reduction
 
-</detail>
+</details>
 
 
 
