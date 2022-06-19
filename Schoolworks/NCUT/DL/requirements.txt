@@ -1,0 +1,7 @@
+pillow
+matplotlib
+sklearn
+graphviz
+easydict
+glog
+tqdm
