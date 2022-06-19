@@ -6,6 +6,12 @@
 ```bash
 conda create -n tensorflow-gpu python==3.9 -y
 conda activate tensorflow-gpu
+
+pip install tensorflow-gpu
+
+python
+>> import tensorflow as tf
+>> tf.test.is_gup_available
 ```
 
 
